@@ -3,4 +3,4 @@
 <br/>
 * * *
 <br/>
-and you all know, GNU License.
+and you all know, GPL.
